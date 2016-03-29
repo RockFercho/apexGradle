@@ -30,4 +30,3 @@ public with sharing class Maker {
     public void myInit() {
     }
 }
-
